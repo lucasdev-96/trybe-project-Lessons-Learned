@@ -29,7 +29,7 @@ body {
 .nav-header {
   display: flex;
   justify-content: flex-start;
-  position: relative;
+  
   bottom: 15px;
 }
 
